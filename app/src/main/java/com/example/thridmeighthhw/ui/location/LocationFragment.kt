@@ -38,6 +38,7 @@ class LocationFragment : Fragment() {
         data.add(Location("Planet","Earth (C-137)"))
         data.add(Location("Cluster","Abadango"))
         data.add(Location("Space station","Citadet of Ricks"))
+        data.add(Location("Planet","Worldender's lair"))
         data.add(Location("Microverse","Anatomy Park"))
         data.add(Location("TV","Interdimensional"))
         data.add(Location("Resort","Immoratality Field Resort"))
